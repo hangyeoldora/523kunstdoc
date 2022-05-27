@@ -1,4 +1,4 @@
-const metaConfig = require('./site-merta-config.js');
+const metaConfig = require('./site-meta-config.js');
 module.exports = {
   siteMetadata: {
     title: "523kunstdoc",
