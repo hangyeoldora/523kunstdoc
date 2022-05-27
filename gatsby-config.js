@@ -2,8 +2,8 @@ const metaConfig = require('./site-meta-config.js');
 module.exports = {
   siteMetadata: {
     title: "523kunstdoc",
-      description: "Kick off your next, ...",
-      author: "@gatsbyjs",
+      description: "쿤스트독과 523갤러리가 만나 탄생한 523쿤스트독입니다.",
+      author: "@523kunstdoc",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
