@@ -1,6 +1,10 @@
 const metaConfig = require('./site-merta-config.js');
 module.exports = {
-  siteMetadata: metaConfig,
+  siteMetadata: {
+    title: `523kunstdoc`,
+      description: `Kick off your next, ...`,
+      author: `@gatsbyjs`,
+  },
   plugins: [
     "gatsby-plugin-react-helmet",
     {
